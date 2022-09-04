@@ -1,0 +1,20 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"12/02/2017",
+				"nombre":"Diana Carolina",
+				"apellido":"Meléndez López",
+				"direccion":"Cuscatlan",
+				"carnet":"ML17017",
+				"correo":"ml17017"
+			}
+		]}
+}
